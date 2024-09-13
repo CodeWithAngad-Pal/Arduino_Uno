@@ -5,6 +5,7 @@ It is simple and easy to use. It is easily programmable, which makes it beginner
 An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves.
 
 # Servo Motor
+A servo motor is a rotary actuator that allows for precise control of angular position.
 
 # Blink Led
 
