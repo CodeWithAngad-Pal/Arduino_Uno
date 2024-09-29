@@ -14,7 +14,7 @@ void setup() {
 
 void loop() {
   // Nothing to do here, the LCD will display "Hello" continuously
-  // lcd.setCursor(0, 0); // Set cursor to top-left corner
-  // lcd.print("Hello"); // Print "Hello" on LCD
-  // delay(1000); // Wait 1 second
+  lcd.setCursor(0, 0); // Set cursor to top-left corner
+  lcd.print("Hello"); // Print "Hello" on LCD
+  delay(1000); // Wait 1 second
 }
