@@ -13,9 +13,10 @@ An ultrasonic sensor is an instrument that measures the distance to an object us
 # Servo Motor
 A servo motor is a rotary actuator that allows for precise control of angular position.
 
-# Blink Led
-
 # Bluetooth Module
+ A Bluetooth module, such as the RN41, is a device that enables wireless communication between electronic devices over short distances.
+
+# Blink Led
 
 # Humidity Sensor (DTH_11)
 
