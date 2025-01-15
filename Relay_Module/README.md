@@ -8,4 +8,4 @@
 
 
 # Wiring
-- Connect the VCC pin of the relay module to the 5V pin on the Arduino Uno.
++ Connect the VCC pin of the relay module to the 5V pin on the Arduino Uno.
