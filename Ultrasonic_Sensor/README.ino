@@ -12,7 +12,7 @@ This guide demonstrates how to use an ultrasonic sensor (e.g., **HC-SR04**) with
 
 | **HC-SR04 Pin** | **Arduino Pin**          | **Description**                       |
 |-----------------|--------------------------|---------------------------------------|
-| VCC             | 5V                       | Power supply for the ultrasonic sensor|
-| GND             | GND                      | Ground connection                    |
-| TRIG            | Pin 9 (or any digital pin)| Trigger pin to send pulse            |
-| ECHO            | Pin 10 (or any digital pin)| Echo pin to receive reflected pulse  |
+| **VCC**             | 5V                       | Power supply for the ultrasonic sensor|
+| **GND**             | GND                      | Ground connection                    |
+| **TRIG**          | Pin 9 (or any digital pin)| Trigger pin to send pulse            |
+| **ECHO**            | Pin 10 (or any digital pin)| Echo pin to receive reflected pulse  |
