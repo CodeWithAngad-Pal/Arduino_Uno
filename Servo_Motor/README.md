@@ -1,4 +1,4 @@
-# Servo Motor Circuit for Arduino
+# Servo Motor
 
 ## Components:
 - **Arduino Uno** (or any other compatible board)
