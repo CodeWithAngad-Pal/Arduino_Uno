@@ -1,6 +1,6 @@
 # Circuit Diagram
 
-| **Relay**    | **Arduino Pin** |
+| **#Relay**    | **#Arduino Pin** |
 |:-------------|:---------------:|
 | VCC      |   5V   |
 | GND      |   GND  |
